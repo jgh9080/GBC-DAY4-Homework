@@ -13,10 +13,10 @@ Auto Close Tag HTML코드의 시작 Tag ```<>```만 입력을 하면 자동으�
             <button>
                 <style>
 ```
-단순히 시작 Tag만 입력을 하게된다면 닫히는 Tag가 작성된다.
+단순히 시작 Tag만 입력을 하게된다면 닫히는 Tag가 작성됩니다.
 ![GIF0](hw4.gif)
 
-> 설치는 왼쪽의 Extensions바를 누르거나 단축키 **Ctrl+Shifit+X** 를 눌러 Auto Close Tag를 입력후 설치하면 된다.
+> 설치는 왼쪽의 Extensions바를 누르거나 단축키 **Ctrl+Shifit+X** 를 눌러 Auto Close Tag를 입력후 설치하면 됩니다.
 
 ![GIF1](hw4_1.gif)
 
